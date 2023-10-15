@@ -14,13 +14,13 @@ body {
     float: left;
     position: fixed;
     z-index: 999;
-    padding: 1.7vh 5vw 1.5vh;
+    padding: 1.2vh 5vw 1.2vh;
     top: 0;
   }
   .logo img {
-    height: 90px;
+    height: 70px;
     width: auto;
-    margin-top: -27px;
+    margin-top: 0px;
     margin-left: -8px;
   }
   .main1 {
@@ -230,7 +230,7 @@ body {
   }
   .mainimg {
     height: 520px;
-    width: auto;
+    width: 600px;
     z-index: 2;
     top: 1px;
     position: relative;
@@ -829,6 +829,7 @@ body {
     position: absolute;
     top: -10%;
     height: 750px;
+    width : 50%;
     z-index: 7;
   }
   .education {
